@@ -1,1 +1,1 @@
-# Ntp-Scanner
+# Ntp-Scanner in python
